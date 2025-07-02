@@ -4,8 +4,6 @@ Currently, I'm studying AMS Analysis and Development in Fatec Ourinhos college.
 
 ---
 
-### Languages and Technologies
-
 <img 
   align="left"
   alt="HTML"
