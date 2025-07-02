@@ -32,8 +32,8 @@ Currently, I'm studying AMS Analysis and Development in Fatec Ourinhos college.
 
 <img 
   align="left"
-  alt="JS"
-  title="JS"
+  alt="Bootstrap"
+  title="Bootstrap"
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
@@ -68,7 +68,7 @@ Currently, I'm studying AMS Analysis and Development in Fatec Ourinhos college.
 
 <img 
   align="left"
-  alt="PHP"
+  alt="Python"
   title="PHP"
   width="30px"
   style="padding-right: 10px"
@@ -86,8 +86,8 @@ Currently, I'm studying AMS Analysis and Development in Fatec Ourinhos college.
 
 <img 
   align="left"
-  alt="MySQL"
-  title="MySQL"
+  alt="git"
+  title="git"
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
