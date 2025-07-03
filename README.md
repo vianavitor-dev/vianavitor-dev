@@ -1,6 +1,6 @@
-## Hi there 👋
-My name is Vitor Hugo Marques Viana. I'm 20 years old, and I'm from Brazil. I completed high school alongside a technical course, the AMS System Development.
-Currently, I'm studying AMS Analysis and Development in Fatec Ourinhos college.
+## 👋 About me
+My name is Vitor Hugo Marques Viana. I'm 20 years old, and I'm from Brazil. I completed high school alongside a technical course, the AMS System Development at Etec Jacinto Ferreira de Sá.
+Currently, I'm studying AMS Analysis and Development at Fatec Ourinhos college.
 
 ---
 
@@ -23,8 +23,8 @@ Currently, I'm studying AMS Analysis and Development in Fatec Ourinhos college.
 
 <img
   align="left"
-  alt="JS"
-  title="JS"
+  alt="Javascript"
+  title="Javascript"
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
