@@ -1,95 +1,59 @@
-## 👋 About me
-My name is Vitor Hugo Marques Viana. I'm 20 years old, and I'm from Brazil. I completed high school alongside a technical course, the AMS System Development at Etec Jacinto Ferreira de Sá.
-Currently, I'm studying AMS Analysis and Development at Fatec Ourinhos college.
+# Hi there 👋
+
+My name is **Vitor Hugo Marques Viana**, and I am a software developer focused on **backend development with Java and Spring Boot**.
+
+I recently graduated in **Systems Analysis and Development** and I am currently looking for opportunities to grow as a developer and apply my knowledge in real-world projects.
 
 ---
 
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+# 🚀 Tech Stack
 
-<img
-  align="left"
-  alt="Javascript"
-  title="Javascript"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<br>
 
-<img 
-  align="left"
-  alt="Bootstrap"
-  title="Bootstrap"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
+---
 
-<img 
-  align="left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+# 📚 About Me
 
-<img
-  align="left"
-  alt="Spring"
-  title="Spring"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+- 🎓 Graduate in **Systems Analysis and Development**
+- 🧠 Interested in **backend development and web applications**
+- 🚀 Currently improving my skills in **Java and the Spring ecosystem**
+- 📖 Always building projects to improve my development skills
 
-<img
-  align="left"
-  alt="PHP"
-  title="PHP"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
+---
 
-<img 
-  align="left"
-  alt="Python"
-  title="Python"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+# 🐾 Featured Project
 
-<img
-  align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+### ComunicaVet
 
-<img 
-  align="left"
-  alt="git"
-  title="git"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+ComunicaVet is a web platform designed to help pet owners find reliable veterinary clinics near their location.
 
+The system combines **geolocation, verified reviews, specialization matching and AI-based recommendations** to improve the process of choosing veterinary care.
+
+---
+
+**Technologies used**
+| Layer | Technology |
+|------|----------|
+| **Backend** | Java, Spring Boot |
+| **AI** | Python |
+| **Frontend** | React |
+| **Database** | MySQL |
+
+Visit the project repository <br>
+👉 https://github.com/vianavitor-dev/ComunicaVet
+
+# 🌎 Connect with me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/vitor-hugo-marques-viana-55025834a/
+
+📧 Email  
+vitorh.viana915@gmail.com
