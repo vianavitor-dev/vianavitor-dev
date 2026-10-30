@@ -52,7 +52,7 @@ I contribute to open-source projects by fixing issues, improving existing code, 
 
 I'm interested in collaborating with other developers, learning from code reviews, and helping build reliable software.
 
-[Explore my repositories and contributions](https://github.com/vianavitor-dev)
+[Explore my repositories and contributions](https://github.com/vianavitor-dev?tab=repositories)
 
 
 
